@@ -19,9 +19,9 @@
 
 ## 📱 核心应用场景
 
-基于本项目的技术能力（**Broadcast Upload Extension**、**ReplayKit**、**Speech Framework**、**WebSocket/UDP 流传输**、**AVKit PiP 画中画**），以下是详细的应用场景和实现方案。
+基于本项目的技术能力（** Extension**、**ReplayKit**、**Speech Framework**、**WebSocket/UDP 流传输**、**AVKit PiP**），以下是详细的应用场景和实现方案。
 
-**核心技术栈**：iOS Broadcast Upload Extension | ReplayKit | Speech Framework | Apple Speech Recognition | OpenAI Whisper API | WebSocket | UDP | H.264 | AAC | AVKit PiP | App Group
+**核心技术栈**：iOS  Extension | ReplayKit | Speech Framework | Apple Speech Recognition | OpenAI Whisper API | WebSocket | UDP | H.264 | AAC | AVKit PiP | App Group
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### 技术优势
 - ✅ 本地识别延迟 < 1秒，体验流畅（**Apple Speech Framework**）
-- ✅ 系统级捕获，不依赖应用 API（**Broadcast Upload Extension**）
+- ✅ 系统级捕获，不依赖应用 API（**Extension**）
 - ✅ 画中画显示，不遮挡内容（**AVKit PiP**）
 - ✅ 支持多语言切换（**Locale Identifier**）
 
@@ -492,3 +492,4 @@
 **集成方式**：iOS SDK | Flutter Plugin | React Native Module | UniApp Plugin | WebSocket API | RESTful API
 
 ---
+
