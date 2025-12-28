@@ -4,17 +4,15 @@
 
 **基于 iOS Broadcast Upload Extension + Speech Framework 的实时语音识别应用场景**
 
-<video width="320" controls>
-  <source src="https://oss.banan.xin/video/copy_C8F02053-89C7-4640-8C7D-81193447BD7B.MOV" type="video/mp4">
-  您的浏览器不支持视频播放，请访问：<a href="https://oss.banan.xin/video/copy_C8F02053-89C7-4640-8C7D-81193447BD7B.MOV">演示视频</a>
-</video>
-
-</div>
-
-
-
 [▶️ 点击观看演示视频](https://oss.banan.xin/video/copy_C8F02053-89C7-4640-8C7D-81193447BD7B.MOV)
 
+<br/>
+
+<img src="https://oss.banan.xin/video/IMG_6495.PNG" width="300" alt="演示截图1"/>
+<img src="https://oss.banan.xin/video/IMG_6496.PNG" width="300" alt="演示截图2"/>
+<img src="https://oss.banan.xin/video/IMG_6497.PNG" width="300" alt="演示截图3"/>
+
+</div>
 
 
 ## 作者微信:_sushushu
